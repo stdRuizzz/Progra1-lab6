@@ -67,7 +67,7 @@
     <item>
      <widget class="QLabel" name="lblTotal">
       <property name="text">
-       <string>Total: CRC 0.00</string>
+       <string>Total: CRC 0,00</string>
       </property>
      </widget>
     </item>
